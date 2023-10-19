@@ -368,11 +368,16 @@ div.tocify {
 ## ✖ dplyr::filter() masks stats::filter()
 ## ✖ dplyr::lag()    masks stats::lag()
 ## ℹ Use the conflicted package (&lt;http://conflicted.r-lib.org/&gt;) to force all conflicts to become errors</code></pre>
-<pre class="r"><code>plot.df = 
+<pre class="r"><code>plot_df = 
   tibble(
     x=runif(100),
     y = 1+2*x+rnorm(100)
-  )</code></pre>
+  )
+
+plot_df|&gt;
+  ggplot(aes(x=x, y=y)) +
+  geom_point()</code></pre>
+<p><img src="projects_files/figure-html/unnamed-chunk-1-1.png" width="672" /></p>
 </div>
 
 
