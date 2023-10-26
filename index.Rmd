@@ -30,5 +30,8 @@ Also here's the "backstag" area in Alumni Auditorium:
 
 ![](images/ted.jpg)
 
+# Other Stuff on this page 
+
+Definitely there is [plotly](plotly.html) stuff!
 
 
