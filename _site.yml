@@ -13,4 +13,4 @@ navbar:
       href: http://github.com/tianyiw44/
 output:
   html_document:
-    theme: cerulean
+    theme: cosmo
