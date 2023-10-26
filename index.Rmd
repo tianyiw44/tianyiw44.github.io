@@ -32,6 +32,6 @@ Also here's the "backstag" area in Alumni Auditorium:
 
 # Other Stuff on this page 
 
-Definitely there is [plotly](plotly.html) stuff!
+Definitely there is [Plotly](Plotly.html) stuff!
 
 
